@@ -40,4 +40,6 @@ pip install -r requirements.txt
 3. Run the code
 ```bash
 streamlit run app.py
-``` 
+```
+## Contact  
+for any queries Contact[shivam2377kumar@gmail.com or su-22015@sitare.org]
