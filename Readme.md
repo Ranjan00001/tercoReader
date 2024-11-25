@@ -41,5 +41,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-## Contact  
-for any queries Contact[shivam2377kumar@gmail.com or su-22015@sitare.org]
+## Contact    
+
+  For any queries contact [shivam2377kumar@gmail.com or su-22015@sitare.org]
