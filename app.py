@@ -1,6 +1,10 @@
+################# Required module and Packages ##################
+
 import streamlit as st
 from components.ui_elements import get_user_query, show_answer_with_chunks
 from components.rag_pipeline import rag_pipeline
+
+################ Main Code ########################################
 
 st.title("RAG-based Question Answering System")
 st.write("Enter your query below, and the system will retrieve relevant context and generate an answer.")
